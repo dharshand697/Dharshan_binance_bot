@@ -1,0 +1,15 @@
+2025-09-09 20:42:55,096 INFO - Bot started (testnet=True)
+2025-09-09 20:42:56,127 ERROR - Binance error: APIError(code=None): None
+2025-09-09 20:47:28,813 INFO - Bot started (testnet=True)
+2025-09-09 20:47:30,327 ERROR - Binance error: code=-5000, msg=Path /fapi/v1/v1/order, Method POST is invalid
+2025-09-09 20:50:37,736 INFO - Bot started (testnet=True)
+2025-09-09 20:50:38,768 ERROR - Binance error: code=None, msg=None
+2025-09-09 20:56:04,384 INFO - Bot started (testnet=True)
+2025-09-09 20:56:05,467 ERROR - Binance error: code=None, msg=None
+2025-09-09 21:26:41,939 INFO - Bot started (testnet=True)
+2025-09-09 21:26:42,753 ERROR - Invalid API keys! code=-2015, msg=Invalid API-key, IP, or permissions for action
+2025-09-09 22:30:50,210 INFO - Bot started (testnet=True)
+2025-09-09 22:30:51,125 ERROR - Invalid API keys! code=-2015, msg=Invalid API-key, IP, or permissions for action
+2025-09-09 22:55:47,083 INFO - Bot started (testnet=True)
+2025-09-09 22:55:47,757 INFO - API key validation successful. Balance fetched.
+2025-09-09 22:55:48,190 INFO - API call success: futures_create_order {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
